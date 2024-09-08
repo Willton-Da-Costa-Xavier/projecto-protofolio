@@ -24,6 +24,14 @@ a {
   display: flex;
 }
 
+.efeito-txt-topo, .titulo, .efeito-especialidades1, .efeito-especialidades2, .efeito-especialidades3, .efeito-img-sobre, .efeito-txt-sobre{
+  visibility: hidden;
+}
+
+.efeito-img-topo{
+  visibility: hidden;
+}
+
 .btn-contacto button {
   padding: 10px 40px;
   font-size: 18px;
